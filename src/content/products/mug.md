@@ -1,6 +1,6 @@
 ---
 templateKey: product-page
-name: Coffee Mug
+name: Coffee Mug B
 image: /img/mug.jpg
 price: 10
 ---
