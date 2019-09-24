@@ -2,14 +2,15 @@
 templateKey: post-page
 title: Gatsby And The JAMstack - A Bright Future For The Web
 date: 2019-09-22T14:59:25.544Z
+author: Daniel
 ---
 
 [Cross post from the official Gatsby blog.](https://www.gatsbyjs.org/blog/2018-02-16-bright-future-for-the-web/)
 
 _This article was originally published on [Medium](https://medium.com/@ryanwiemer/gatsby-and-the-jam-stack-91e31508f364) on January 31, 2018._
 
-Recently I relaunched my wife’s photography portfolio, [KNW Photography](https://www.knw.io/), using a combination of Gatsby, [Contentful](https://www.contentful.com/) and [Netlify](https://www.netlify.com/). This particular group of tools represents a new and exciting web development architecture known as the [JAMstack](https://jamstack.org/) (JavaScript, APIs and Markup). In this post I will be sharing my personal thoughts on each of these new tools and why together they represent the “holy grail” of the static website world.
-
+Recently I relaunched my husband’s photography portfolio, [KNW Photography](https://www.knw.io/), using a combination of Gatsby, [Contentful](https://www.contentful.com/) and [Netlify](https://www.netlify.com/). This particular group of tools represents a new and exciting web development architecture known as the [JAMstack](https://jamstack.org/) (JavaScript, APIs and Markup). In this post I will be sharing my personal thoughts on each of these new tools and why together they represent the “holy grail” of the static website world.
+ 
 ## [](#why-other-static-site-generators-didnt-work-for-me)Why Other Static Site Generators Didn’t Work For Me
 
 In case you hadn’t noticed the web moves at an insane speed. With new frameworks and tools being introduced almost daily it can be intimidating even for the most experienced developers. Perhaps you have jumped on the bandwagon too early only to regret it later. Or maybe you have given up on new tools and are happy to settle with outdated …err I mean… trusted solutions. 😉 Admittedly it’s a balancing act but I believe that in order to stay relevant we need to evolve with the web while ensuring that selected tools are robust enough to last.
