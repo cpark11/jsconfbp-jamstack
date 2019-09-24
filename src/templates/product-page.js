@@ -35,3 +35,21 @@ export default function ProductPage(props) {
     </div>
   )
 }
+
+export const pageQuery = graphql`
+  query MyQuery {
+    allMarkdownRemark(
+      filter: { frontmatter: { templateKey: { eq: "product-page" } } }
+    ) {
+      edges {
+        node {
+          frontmatter {
+            image
+            name
+            price
+          }
+        }
+      }
+    }
+  }
+`
